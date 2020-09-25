@@ -1,0 +1,98 @@
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+    min-height: 90%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+th{
+    text-align: center;
+    border: 1px solid black;
+    padding: 8px;
+}
+
+  td{
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+  }
+
+ #links {
+
+  color: red;
+  text-decoration: none;
+}
+
+section {
+  min-height: 100vh;
+}
+
+td {
+  text-align: right;
+  padding: 10px;
+}
+
+wrapper{
+
+  font-size: 3em;
+}
+
+
+/*. 
+
+Give each holiday a unique background color of your choosing using its id attribute as its
+CSS selector 
+
+*/
+#new-years-day,#new-years {
+
+  background-color: green;
+}
+
+#martin-luther-king-day, #mlk-day{
+  background-color: gray;
+}
+
+
+#gw-day, #george-washington-day
+{
+  background-color: hotpink;
+}
+
+#memorial-day-or-decoration-day,#memorial-day{
+  background-color: rgb(0, 60, 200);
+}
+
+#independence-day, #independence-day-USA {
+
+  background-color: fuchsia
+}
+
+#labor-day, #labor-day-USA {
+  background-color: yellowgreen;
+
+}
+
+#columbus-day, #columbus-day-USA{
+  background-color: rgb(212, 69, 69);
+}
+
+#veterans-day-USA, #veterans-day{
+  background-color: rgb(133, 212, 69);
+}
+
+#turkey-day, #turkey-day {
+  background-color: sienna;
+}
+
+#x-max, #x-max-USA {
+  background-color: orange;
+}
